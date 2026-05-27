@@ -1,6 +1,6 @@
 # Hey, I'm @kaschka 👋
 
-**Security Architect** by day. Having fun breaking things so others can build them safer.
+**Security Architect** by day. Breaking things by night so others can improve them.
 
 ### What I do
 - 🔐 Security architecture & threat modeling
