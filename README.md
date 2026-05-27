@@ -1,7 +1,13 @@
-👋 Hi, I’m @kaschka
+# Hey, I'm @kaschka 👋
 
-- 🔐 I'm a security expert, currently working as a security architect
-- ⌨️ But I also have some development experience in backend enterprise environments
-- 🗨️ and do prefer OOP languages, like Java or C++
+**Security Architect** by day. Having fun breaking things so others can build them safer.
 
-Hit me up!
+### What I do
+- 🔐 Security architecture & threat modeling
+- 🔬 Reverse engineering & taking systems down
+- ⌨️ High available backend development in cloud environments (Java, C++, Python)
+
+### What I like
+- OOP languages with strong type systems
+- Digging into APIs and binaries
+- Building tooling that makes complex systems transparent
